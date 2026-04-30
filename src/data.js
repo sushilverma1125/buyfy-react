@@ -7,6 +7,13 @@ export const sliderItems = [
       bg: "fcf1ed",
     },
     {
+      id: 2,
+      img: process.env.PUBLIC_URL + "/pic.png",
+      title: "WINTER SALE",
+      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      bg: "f5fafd",
+    },
+    {
       id: 3,
       img: "https://i.ibb.co/DG69bQ4/2.png",
       title: "LOUNGEWEAR LOVE",
