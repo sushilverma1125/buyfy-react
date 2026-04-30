@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { Link } from "react-router-dom";
 import { mobile } from "../responsive";
 
 const Container = styled.div`
@@ -54,6 +55,15 @@ const Button = styled.button`
   cursor: pointer;
 `;
 
+const StyledLink = styled(Link)`
+  display: block;
+  margin-top: 15px;
+  font-size: 12px;
+  text-decoration: underline;
+  cursor: pointer;
+  color: inherit;
+`;
+
 const Register = () => {
   return (
     <Container>
@@ -72,6 +82,7 @@ const Register = () => {
           </Agreement>
           <Button>CREATE</Button>
         </Form>
+        <StyledLink to="/login">ALREADY HAVE AN ACCOUNT? SIGN IN</StyledLink>
       </Wrapper>
     </Container>
   );
