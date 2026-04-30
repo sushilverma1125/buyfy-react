@@ -1,6 +1,6 @@
 # 🛒 Buyfy React
 
-**Live Demo:** buyfy-react.vercel.app/
+**Live Demo:** https://buyfy-react.vercel.app/
 
 ---
 
