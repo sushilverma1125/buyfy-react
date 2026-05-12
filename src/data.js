@@ -63,7 +63,7 @@ export const sliderItems = [
     },
     {
       id:6,
-      img:"https://in.pinterest.com/pin/blue-sneakers-shoes-isolated-on-transparent-background-png-psd--214413632254185986/",
+      img:"https://img.magnific.com/free-psd/adorable-baby-denim-overalls-blue-jean-outfit-little-ones_191095-85718.jpg?semt=ais_hybrid&w=740&q=80",
     },
     {
       id:7,
