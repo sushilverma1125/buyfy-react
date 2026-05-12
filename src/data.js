@@ -55,22 +55,14 @@ export const sliderItems = [
     },
     {
       id:4,
-      img:"https://ibb.co/MyrLYgyX",
-    },
-    {
-      id:5,
       img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
     },
     {
-      id:6,
-      img:"https://img.magnific.com/free-psd/adorable-baby-denim-overalls-blue-jean-outfit-little-ones_191095-85718.jpg?semt=ais_hybrid&w=740&q=80",
-    },
-    {
-      id:7,
+      id:5,
       img:"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQc7zxRla0Se4fc6Xpl973Zpxxj5VbzroNWwUQpqeztoj-OtwxlPd-2KJwxME-D4Xrh-T5ze_EFg84B8zSnEOVqJHzHSwFIwKIflYYRcLreVt3mxz0KJr9geA&usqp=CAE",
     },
     {
-      id:8,
+      id:6,
       img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
     },
   ]
