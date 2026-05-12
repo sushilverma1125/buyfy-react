@@ -55,7 +55,7 @@ export const sliderItems = [
     },
     {
       id:4,
-      img:"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuwQF2y5adGQodWOdMsQZHJvtnMHinjVnjcAl4mMO2vhjHZ4Fb3aGFQeB0DorD9G-Oe10CTqc5S_nQAXrfFT38iFoXw8JmfcZ62zcu6d6c9LXWqNFgwU2s&usqp=CAE",
+      img:"https://ibb.co/MyrLYgyX",
     },
     {
       id:5,
