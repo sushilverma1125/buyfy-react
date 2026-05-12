@@ -63,7 +63,7 @@ export const sliderItems = [
     },
     {
       id:6,
-      img:"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSv3s1-CrRDeU07cy_bSUFyw6IDAg8aipJnD2sId10Mn7slDypNnK3ve6G_FE4xHWic-qCLoWaDBxtu6hHps_8Bh6FgqhsZzklp66E98iyz_8fEOinlw-IECg&usqp=CAE",
+      img:"https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png",
     },
     {
       id:7,
