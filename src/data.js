@@ -63,7 +63,7 @@ export const sliderItems = [
     },
     {
       id:6,
-      img:"https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png",
+      img:"https://in.pinterest.com/pin/blue-sneakers-shoes-isolated-on-transparent-background-png-psd--214413632254185986/",
     },
     {
       id:7,
